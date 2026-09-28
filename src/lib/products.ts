@@ -1,0 +1,138 @@
+import { Product } from '@/types';
+
+export const PRODUCTS: Product[] = [
+  // Sección 2 de /planes/
+  {
+    id: 'plan-express',
+    slug: 'plan-express',
+    nameKey: 'products.plan-express.name',
+    descriptionKey: 'products.plan-express.description',
+    price: 180,
+    featuresKey: 'products.plan-express.features',
+  },
+  {
+    id: 'plan-inicio',
+    slug: 'plan-inicio',
+    nameKey: 'products.plan-inicio.name',
+    descriptionKey: 'products.plan-inicio.description',
+    price: 540,
+    featuresKey: 'products.plan-inicio.features',
+  },
+  {
+    id: 'plan-basico-plus',
+    slug: 'plan-basico-plus',
+    nameKey: 'products.plan-basico-plus.name',
+    descriptionKey: 'products.plan-basico-plus.description',
+    price: 1110,
+    featuresKey: 'products.plan-basico-plus.features',
+  },
+  {
+    id: 'paquete-esencial',
+    slug: 'paquete-esencial',
+    nameKey: 'products.paquete-esencial.name',
+    descriptionKey: 'products.paquete-esencial.description',
+    price: 2540,
+    featuresKey: 'products.paquete-esencial.features',
+  },
+  {
+    id: 'paquete-inicial',
+    slug: 'paquete-inicial',
+    nameKey: 'products.paquete-inicial.name',
+    descriptionKey: 'products.paquete-inicial.description',
+    price: 3200,
+    featuresKey: 'products.paquete-inicial.features',
+  },
+  {
+    id: 'paquete-avanzado',
+    slug: 'paquete-avanzado',
+    nameKey: 'products.paquete-avanzado.name',
+    descriptionKey: 'products.paquete-avanzado.description',
+    price: 4750,
+    featuresKey: 'products.paquete-avanzado.features',
+  },
+  {
+    id: 'paquete-profesional',
+    slug: 'paquete-profesional',
+    nameKey: 'products.paquete-profesional.name',
+    descriptionKey: 'products.paquete-profesional.description',
+    price: 7150,
+    featuresKey: 'products.paquete-profesional.features',
+  },
+  {
+    id: 'paquete-empresarial',
+    slug: 'paquete-empresarial',
+    nameKey: 'products.paquete-empresarial.name',
+    descriptionKey: 'products.paquete-empresarial.description',
+    price: 9350,
+    featuresKey: 'products.paquete-empresarial.features',
+  },
+  {
+    id: 'paquete-corporativo',
+    slug: 'paquete-corporativo',
+    nameKey: 'products.paquete-corporativo.name',
+    descriptionKey: 'products.paquete-corporativo.description',
+    price: 12700,
+    featuresKey: 'products.paquete-corporativo.features',
+  },
+  {
+    id: 'paquete-premium',
+    slug: 'paquete-premium',
+    nameKey: 'products.paquete-premium.name',
+    descriptionKey: 'products.paquete-premium.description',
+    price: 15500,
+    featuresKey: 'products.paquete-premium.features',
+  },
+  // Sección 4 de /planes/
+  {
+    id: 'paquete-elite',
+    slug: 'paquete-elite',
+    nameKey: 'products.paquete-elite.name',
+    descriptionKey: 'products.paquete-elite.description',
+    price: 18950,
+    featuresKey: 'products.paquete-elite.features',
+  },
+  {
+    id: 'paquete-vip',
+    slug: 'paquete-vip',
+    nameKey: 'products.paquete-vip.name',
+    descriptionKey: 'products.paquete-vip.description',
+    price: 22370,
+    featuresKey: 'products.paquete-vip.features',
+  },
+  {
+    id: 'paquete-ejecutivo',
+    slug: 'paquete-ejecutivo',
+    nameKey: 'products.paquete-ejecutivo.name',
+    descriptionKey: 'products.paquete-ejecutivo.description',
+    price: 27230,
+    featuresKey: 'products.paquete-ejecutivo.features',
+  },
+  // Sección 6 de /planes/
+  {
+    id: 'plan-pro',
+    slug: 'plan-pro',
+    nameKey: 'products.plan-pro.name',
+    descriptionKey: 'products.plan-pro.description',
+    price: 34500,
+    featuresKey: 'products.plan-pro.features',
+  },
+  {
+    id: 'plan-master',
+    slug: 'plan-master',
+    nameKey: 'products.plan-master.name',
+    descriptionKey: 'products.plan-master.description',
+    price: 44900,
+    featuresKey: 'products.plan-master.features',
+  },
+  {
+    id: 'plan-elite-plus',
+    slug: 'plan-elite-plus',
+    nameKey: 'products.plan-elite-plus.name',
+    descriptionKey: 'products.plan-elite-plus.description',
+    price: 55200,
+    featuresKey: 'products.plan-elite-plus.features',
+  },
+];
+
+export const getProductBySlug = (slug: string): Product | undefined =>
+  PRODUCTS.find((p) => p.slug === slug);

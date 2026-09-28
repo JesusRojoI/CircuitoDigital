@@ -1,0 +1,405 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "required": "Required",
+    "optional": "Optional",
+    "yes": "Yes",
+    "no": "No",
+    "currency": "MXN",
+    "vat": "VAT",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "discount": "Discount",
+    "quantity": "Quantity",
+    "price": "Price",
+    "product": "Product",
+    "image": "Image",
+    "actions": "Actions",
+    "plusVat": "+ VAT"
+  },
+  "header": {
+    "home": "Home",
+    "plans": "Plans",
+    "contact": "Contact",
+    "cart": "Cart",
+    "language": "Language"
+  },
+  "footer": {
+    "tagline": "Something big for the future of your brand",
+    "address": "Av. Baja California 245, Office 501, Office 501-l, Col. Hipódromo Condesa, Mexico City. Zip Code 06140",
+    "phone": "Phone: 55 5941 5147",
+    "email": "Email: support@circuitodigital.com.mx",
+    "privacy": "Privacy Notice",
+    "terms": "Terms and Conditions",
+    "refunds": "Refund and Returns Policy",
+    "copyright": "CircuitoDigital ©2024. All Rights Reserved."
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty.",
+    "emptyMessage": "It looks like you haven't added any products to your cart yet.",
+    "continueShopping": "Continue shopping",
+    "removeItem": "Remove item",
+    "removedItem": "removed",
+    "undo": "Undo?",
+    "viewCart": "View cart",
+    "checkout": "Checkout",
+    "cartTotal": "Cart total",
+    "productAdded": "The product \"{product}\" has been successfully added to the cart",
+    "quantityMin": "Minimum quantity is 1",
+    "thumbnail": "Thumbnail"
+  },
+  "home": {
+    "hero": {
+      "title": "Grow your business with us",
+      "subtitle": "We develop custom digital solutions to boost your success. Transform your online presence with our mobile applications and web design.",
+      "cta": "Get Started"
+    },
+    "marquee": {
+      "items": ["Web Design", "UI/UX Design", "Applications"]
+    },
+    "solutions": {
+      "title": "Providing digital solutions",
+      "cta": "Contact Us"
+    },
+    "services": {
+      "title": "Our Services",
+      "viewPlans": "View plans",
+      "webDev": "Web Development",
+      "webDesign": "Web Design",
+      "webDesignDesc": "We create custom, professional websites that adapt to your needs and business goals.",
+      "mobileApps": "Mobile Applications",
+      "mobileAppsDesc": "We develop functional and easy-to-use mobile applications, optimized to provide the best experience for your users.",
+      "serviceNames": ["Web Design", "Mobile Applications"]
+    },
+    "innovation": {
+      "text": "In a world where innovation is key, we are here to take your brand to the next level. Our team of marketing and technology development experts works tirelessly to create solutions that not only meet your current needs but also anticipate future trends."
+    }
+  },
+  "plans": {
+    "title": "Our Plans",
+    "marquee": ["Quality", "Warranty", "Design", "Experts"],
+    "pricing": "Pricing",
+    "hire": "Hire",
+    "features": "Features:",
+    "assist": {
+      "title": "We are passionate about assisting.",
+      "text": "Still not sure what you need? We are happy to help you, even if you are not our client yet. We can suggest a custom plan that fits your specific needs.",
+      "text2": "Contact us to chat, or we will reach out to you as soon as possible.",
+      "cta": "Contact"
+    },
+    "perfect": {
+      "title": "Find the perfect plan for your business",
+      "text": "Every company is unique, and our plans are designed to adapt to your specific needs. From technology development to marketing strategies, we offer comprehensive solutions to boost your digital presence."
+    }
+  },
+  "custom": {
+    "title": "Customize your services",
+    "subtitle": "Request your quote",
+    "name": "Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "quoteId": "Quote ID",
+    "quoteIdHelp": "If you don't have a quote ID yet, contact us and request information. Click to contact",
+    "here": "here",
+    "amount": "Amount to Pay",
+    "pay": "Pay",
+    "help": {
+      "title": "We are here to help you.",
+      "text": "Still have questions about what you need? We are here to help you solve them and provide the guidance you require.",
+      "text2": "We are dedicated to offering you the best support and personalized attention.",
+      "cta": "Contact"
+    },
+    "successMessage": "Your quote has been received and will be reviewed by our team. We invite you to check your inbox.",
+    "successTitle": "Quote received!",
+    "customProductName": "Custom"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Write to us",
+    "name": "Name",
+    "lastName": "Last Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "addressLabel": "Address",
+    "successMessage": "Your message has been sent. We will contact you soon.",
+    "errorMessage": "There was an error sending your message. Please try again.",
+    "successTitle": "Message sent!",
+    "errorTitle": "Error sending"
+  },
+  "checkout": {
+    "title": "Billing details",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "company": "Company name",
+    "country": "Country/Region",
+    "address": "Street address",
+    "addressPlaceholder": "House number and street name",
+    "address2": "Colony, Apartment, suite, etc.",
+    "city": "City",
+    "state": "State",
+    "postalCode": "Postal code",
+    "phone": "Phone",
+    "email": "Email address",
+    "additionalInfo": "Additional information",
+    "orderNotes": "Order notes",
+    "orderNotesPlaceholder": "Additional order details, address references, etc",
+    "yourOrder": "Your order",
+    "cardTitle": "Credit or debit card.",
+    "cardSubtitle": "Enter card details",
+    "cardName": "Name on card",
+    "cardNumber": "Card number",
+    "cardExpiry": "MM/YY",
+    "cardCvc": "CVC",
+    "privacyText": "Your personal data will be used to process your order, improve your experience on this website, and other purposes described in our",
+    "privacyLink": "privacy notice",
+    "placeOrder": "Place order",
+    "processing": "Processing...",
+    "paymentError": "There was a problem processing your payment. Please verify your data and try again.",
+    "emailError": "Payment was processed but there was a problem sending the confirmation. Please contact support.",
+    "genericError": "There was a problem processing your order. Please try again later."
+  },
+  "success": {
+    "title": "Purchase successful!",
+    "subtitle": "Thank you for your purchase. We have sent the details to your email.",
+    "orderSummary": "Order Summary",
+    "customerInfo": "Customer Information",
+    "transactionId": "Transaction ID",
+    "backToMenu": "Back to Menu",
+    "keepShopping": "Keep Shopping"
+  },
+  "product": {
+    "addToCart": "Add to cart",
+    "quantity": "Quantity",
+    "hire": "Hire",
+    "features": "Features:",
+    "addedToCart": "Product added to cart",
+    "notFound": "Product not found",
+    "notFoundDesc": "The product you are looking for does not exist or has been removed."
+  },
+  "privacy": {
+    "title": "Privacy Notice",
+    "construction": "This page is under construction. It will be available soon."
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "construction": "This page is under construction. It will be available soon."
+  },
+  "refunds": {
+    "title": "Refund and Returns Policy",
+    "construction": "This page is under construction. It will be available soon."
+  },
+  "errors": {
+    "requiredField": "This field is required",
+    "invalidEmail": "Please enter a valid email",
+    "invalidPhone": "Please enter a valid phone number",
+    "invalidPostalCode": "Please enter a valid postal code (5 digits)",
+    "invalidAmount": "Please enter a valid amount greater than 0",
+    "invalidCard": "Please verify your card details",
+    "invalidExpiry": "Please enter a valid expiry date (MM/YY)",
+    "invalidCvc": "Please enter a valid CVC",
+    "generic": "An unexpected error occurred"
+  },
+  "emails": {
+    "contact": {
+      "adminTitle": "📨 New Contact Message",
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "clientTitle": "✅ Message Received",
+      "greeting": "Hello {name},",
+      "clientBody": "We have received your message and will contact you soon."
+    },
+    "order": {
+      "clientTitle": "✅ Purchase Confirmed!",
+      "greeting": "Hello {name},",
+      "clientBody": "Your order has been processed successfully.",
+      "summary": "Order Summary",
+      "transaction": "Transaction",
+      "thanks": "Thank you for your purchase at",
+      "adminTitle": "📦 New Purchase",
+      "customer": "Customer",
+      "email": "Email"
+    },
+    "quote": {
+      "adminTitle": "📋 New Custom Quote",
+      "clientTitle": "✅ Quote Received",
+      "greeting": "Hello {name},",
+      "clientBody": "We have received your quote request. Our team will review it and contact you soon."
+    }
+  },
+  "products": {
+    "plan-express": {
+      "name": "Express Plan",
+      "description": "Initial consulting to define requirements.",
+      "features": [
+        "Initial consulting to define requirements (15 minutes)",
+        "Basic recommendations for web or app development"
+      ]
+    },
+    "plan-inicio": {
+      "name": "Starter Plan",
+      "description": "Basic website design.",
+      "features": [
+        "Basic website design (one static section)",
+        "Limited technical support (3 days)"
+      ]
+    },
+    "plan-basico-plus": {
+      "name": "Basic Plus Plan",
+      "description": "Simple app and web development.",
+      "features": [
+        "Mobile app development (basic features)",
+        "Simple website design (1 section)",
+        "Limited technical support (7 days)"
+      ]
+    },
+    "paquete-esencial": {
+      "name": "Essential",
+      "description": "Essential package to get started.",
+      "features": [
+        "Basic mobile app development",
+        "Simple website design",
+        "Basic technical support (15 days)"
+      ]
+    },
+    "paquete-inicial": {
+      "name": "Initial",
+      "description": "Initial package for small projects.",
+      "features": [
+        "Basic mobile app development",
+        "Website design with up to 3 sections",
+        "Basic technical support (1 month)"
+      ]
+    },
+    "paquete-avanzado": {
+      "name": "Advanced",
+      "description": "Advanced package with more features.",
+      "features": [
+        "Mobile app development with intermediate features",
+        "Website design and development with up to 5 sections",
+        "Standard technical support (1 month)"
+      ]
+    },
+    "paquete-profesional": {
+      "name": "Professional",
+      "description": "Professional package for growing businesses.",
+      "features": [
+        "Intermediate mobile app development",
+        "Website design and development with up to 7 sections",
+        "Standard technical support (2 months)"
+      ]
+    },
+    "paquete-empresarial": {
+      "name": "Business",
+      "description": "Complete business package.",
+      "features": [
+        "Custom mobile app development",
+        "Complete website design and development with up to 10 sections",
+        "Technical support (3 months)",
+        "Content Management System (CMS)"
+      ]
+    },
+    "paquete-corporativo": {
+      "name": "Corporate",
+      "description": "Advanced corporate package.",
+      "features": [
+        "Mobile app development with advanced features",
+        "Website design and development with up to 12 sections",
+        "Technical support (5 months)",
+        "Content Management System (CMS)"
+      ]
+    },
+    "paquete-premium": {
+      "name": "Premium",
+      "description": "Premium package with full customization.",
+      "features": [
+        "Mobile app development with advanced features and full customization",
+        "Website design and development with up to 15 sections",
+        "Premium technical support (8 months)",
+        "Content Management System (CMS), advanced SEO optimization and basic data analysis"
+      ]
+    },
+    "paquete-elite": {
+      "name": "Elite",
+      "description": "Elite package with premium UI.",
+      "features": [
+        "Mobile app development with advanced features, full customization and User Interface (UI) design",
+        "Website design and development with up to 18 sections",
+        "Premium technical support (10 months)",
+        "Content Management System (CMS), advanced SEO optimization, detailed data analysis and basic digital marketing"
+      ]
+    },
+    "paquete-vip": {
+      "name": "VIP",
+      "description": "VIP package with advanced marketing.",
+      "features": [
+        "Mobile app development with advanced features, full customization and premium User Interface (UI) design",
+        "Website design and development with up to 20 sections",
+        "Premium technical support (12 months)",
+        "Content Management System (CMS), advanced SEO optimization, detailed data analysis, advanced digital marketing and basic social media management"
+      ]
+    },
+    "paquete-ejecutivo": {
+      "name": "Executive",
+      "description": "Executive package with full UI/UX.",
+      "features": [
+        "Mobile app development with advanced features, full customization and User Interface (UI) and User Experience (UX) design",
+        "Website design and development with up to 25 sections",
+        "Premium technical support (12 months)",
+        "Content Management System (CMS), advanced SEO optimization, detailed data analysis, complete digital marketing, advanced social media management and personalized consulting"
+      ]
+    },
+    "plan-pro": {
+      "name": "Pro",
+      "description": "Pro plan with comprehensive strategy.",
+      "features": [
+        "Mobile app development: Advanced features, full customization and User Interface (UI) design with User Experience (UX) improvements.",
+        "Website design and development: Up to 30 sections with responsive design and mobile optimization.",
+        "Technical support: Premium for 14 months.",
+        "Advanced Content Management System (CMS), advanced SEO optimization.",
+        "Digital marketing: Comprehensive strategy with social media advertising campaigns and performance analysis.",
+        "Personalized consulting: Advisory for digital business expansion and content strategy."
+      ]
+    },
+    "plan-master": {
+      "name": "Master",
+      "description": "Master plan with integrated AI.",
+      "features": [
+        "Mobile app development: Advanced features with AI (Artificial Intelligence) integration and premium UI/UX design.",
+        "Website design and development: Up to 35 sections, with interactive features integration and advanced customization.",
+        "Technical support: Premium for 18 months.",
+        "Next-generation Content Management System (CMS), complete SEO optimization.",
+        "Digital marketing: Complete strategy with campaigns on multiple platforms, including Google Ads and native advertising.",
+        "Social media management: Advanced with campaign analysis and optimization, and content generation."
+      ]
+    },
+    "plan-elite-plus": {
+      "name": "Elite Plus",
+      "description": "Elite Plus plan with AR/VR.",
+      "features": [
+        "Mobile app development: Advanced features with AR (Augmented Reality) and VR (Virtual Reality) integration, and high-end UI/UX design.",
+        "Website design and development: Up to 40 sections with extreme customization features and adaptive design for all devices.",
+        "Technical support: Premium for 24 months.",
+        "Ultra-advanced CMS, total SEO optimization with detailed reports.",
+        "Digital marketing: Global strategy with market research, advanced social media campaigns, content marketing, and conversion optimization.",
+        "Social media management: Comprehensive with specific campaign creation, community management and trend analysis."
+      ]
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Cerrar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "search": "Buscar",
+    "required": "Obligatorio",
+    "optional": "Opcional",
+    "yes": "Sí",
+    "no": "No",
+    "currency": "MXN",
+    "vat": "IVA",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "discount": "Descuento",
+    "quantity": "Cantidad",
+    "price": "Precio",
+    "product": "Producto",
+    "image": "Imagen",
+    "actions": "Acciones",
+    "plusVat": "+ IVA"
+  },
+  "header": {
+    "home": "Inicio",
+    "plans": "Planes",
+    "contact": "Contacto",
+    "cart": "Carrito",
+    "language": "Idioma"
+  },
+  "footer": {
+    "tagline": "Algo grande para el futuro de su marca",
+    "address": "Av. Baja California 245, Despacho 501, Oficina 501-l, Col. Hipódromo Condesa, Ciudad de México. C.P. 06140",
+    "phone": "Tel: 55 5941 5147",
+    "email": "Correo: support@circuitodigital.com.mx",
+    "privacy": "Aviso de Privacidad",
+    "terms": "Términos y Condiciones",
+    "refunds": "Política de Devoluciones y Reembolsos",
+    "copyright": "CircuitoDigital ©2024. Todos los Derechos Reservados."
+  },
+  "cart": {
+    "title": "Carrito",
+    "empty": "Tu carrito está vacío.",
+    "emptyMessage": "Parece que aún no has agregado productos a tu carrito.",
+    "continueShopping": "Seguir comprando",
+    "removeItem": "Eliminar artículo",
+    "removedItem": "eliminado",
+    "undo": "¿Deshacer?",
+    "viewCart": "Ver carrito",
+    "checkout": "Finalizar compra",
+    "cartTotal": "Total del carrito",
+    "productAdded": "El producto \"{product}\" se ha agregado correctamente al carrito",
+    "quantityMin": "La cantidad mínima es 1",
+    "thumbnail": "Imagen en miniatura"
+  },
+  "home": {
+    "hero": {
+      "title": "Haga crecer su negocio con nosotros",
+      "subtitle": "Desarrollamos soluciones digitales a medida para impulsar su éxito. Transforme su presencia en línea con nuestras aplicaciones móviles, diseño web.",
+      "cta": "Empezar"
+    },
+    "marquee": {
+      "items": ["Diseño Web", "UI/UX Design", "Aplicaciones"]
+    },
+    "solutions": {
+      "title": "Brindando soluciones digitales",
+      "cta": "Contáctenos"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "viewPlans": "Ver planes",
+      "webDev": "Desarrollo Web",
+      "webDesign": "Diseño Web",
+      "webDesignDesc": "Creamos sitios web personalizados y profesionales que se adaptan a sus necesidades y objetivos comerciales.",
+      "mobileApps": "Aplicaciones Móviles",
+      "mobileAppsDesc": "Desarrollamos aplicaciones móviles funcionales y fáciles de usar, optimizadas para brindar la mejor experiencia a sus usuarios.",
+      "serviceNames": ["Diseño Web", "Aplicaciones Móviles"]
+    },
+    "innovation": {
+      "text": "En un mundo donde la innovación es clave, estamos aquí para llevar su marca al siguiente nivel. Nuestro equipo de expertos en marketing y desarrollo tecnológico trabaja incansablemente para crear soluciones que no solo satisfagan sus necesidades actuales, sino que también anticipen las tendencias del futuro."
+    }
+  },
+  "plans": {
+    "title": "Nuestros Planes",
+    "marquee": ["Calidad", "Garantía", "Diseño", "Expertos"],
+    "pricing": "Precios",
+    "hire": "Contratar",
+    "features": "Características:",
+    "assist": {
+      "title": "Nos apasiona asistir.",
+      "text": "¿Todavía no estás seguro de lo que necesitas? Estamos encantados de ayudarte, incluso si aún no eres nuestro cliente. Podemos sugerirte un plan personalizado que se ajuste a tus necesidades específicas.",
+      "text2": "Contáctanos para conversar, o nos comunicaremos contigo lo antes posible.",
+      "cta": "Contactar"
+    },
+    "perfect": {
+      "title": "Encuentra el plan perfecto para tu negocio",
+      "text": "Cada empresa es única, y nuestros planes están diseñados para adaptarse a tus necesidades específicas. Desde desarrollo tecnológico hasta estrategias de marketing, te ofrecemos soluciones integrales para potenciar tu presencia digital."
+    }
+  },
+  "custom": {
+    "title": "Personalice sus servicios",
+    "subtitle": "Solicite su cotización",
+    "name": "Nombre",
+    "lastName": "Apellidos",
+    "email": "Correo electrónico",
+    "quoteId": "ID de Cotización",
+    "quoteIdHelp": "Si aún no tienes un ID de cotización contáctanos y pide información. Haz clic para contactar",
+    "here": "aquí",
+    "amount": "Monto a Pagar",
+    "pay": "Pagar",
+    "help": {
+      "title": "Estamos aquí para ayudarte.",
+      "text": "¿Aún tienes dudas sobre lo que necesitas? Estamos aquí para ayudarte a resolverlas y proporcionarte la orientación que requieres.",
+      "text2": "Nos dedicamos a ofrecerte el mejor soporte y atención personalizada.",
+      "cta": "Contactar"
+    },
+    "successMessage": "Tu cotización ha sido recibida y será revisada por nuestro equipo. Te invitamos a verificar tu bandeja de correo.",
+    "successTitle": "¡Cotización recibida!",
+    "customProductName": "Personalizado"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Escríbanos",
+    "name": "Nombre",
+    "lastName": "Apellidos",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "emailLabel": "Correo",
+    "phoneLabel": "Teléfono",
+    "addressLabel": "Dirección",
+    "successMessage": "Tu mensaje ha sido enviado. Nos pondremos en contacto contigo pronto.",
+    "errorMessage": "Hubo un error al enviar tu mensaje. Por favor intenta de nuevo.",
+    "successTitle": "¡Mensaje enviado!",
+    "errorTitle": "Error al enviar"
+  },
+  "checkout": {
+    "title": "Detalles de facturación",
+    "firstName": "Nombre",
+    "lastName": "Apellidos",
+    "company": "Nombre de la empresa",
+    "country": "País/Región",
+    "address": "Dirección de la calle",
+    "addressPlaceholder": "Número de la casa y nombre de la calle",
+    "address2": "Colonia, Apartamento, habitación, etc.",
+    "city": "Localidad / Ciudad",
+    "state": "Región / Estado",
+    "postalCode": "Código postal",
+    "phone": "Teléfono",
+    "email": "Dirección de correo electrónico",
+    "additionalInfo": "Información adicional",
+    "orderNotes": "Indicaciones del pedido",
+    "orderNotesPlaceholder": "Detalles adicionales del pedido, referencias de la dirección, etc",
+    "yourOrder": "Tu pedido",
+    "cardTitle": "Tarjeta de Crédito o débito.",
+    "cardSubtitle": "Ingresar datos de tarjeta",
+    "cardName": "Nombre en la tarjeta",
+    "cardNumber": "Número de tarjeta",
+    "cardExpiry": "MM/AA",
+    "cardCvc": "CVC",
+    "privacyText": "Tus datos personales se utilizarán para procesar tu pedido, mejorar tu experiencia en esta web y otros propósitos descritos en nuestra",
+    "privacyLink": "aviso de privacidad",
+    "placeOrder": "Realizar el pedido",
+    "processing": "Procesando...",
+    "paymentError": "Hubo un problema al procesar tu pago. Por favor verifica tus datos e intenta nuevamente.",
+    "emailError": "El pago fue procesado pero hubo un problema al enviar la confirmación. Por favor contacta a soporte.",
+    "genericError": "Hubo un problema al procesar tu pedido. Por favor intenta nuevamente más tarde."
+  },
+  "success": {
+    "title": "¡Compra exitosa!",
+    "subtitle": "Gracias por tu compra. Hemos enviado los detalles a tu correo.",
+    "orderSummary": "Resumen de tu pedido",
+    "customerInfo": "Información del cliente",
+    "transactionId": "ID de transacción",
+    "backToMenu": "Volver al Menú",
+    "keepShopping": "Seguir Comprando"
+  },
+  "product": {
+    "addToCart": "Agregar al carrito",
+    "quantity": "Cantidad",
+    "hire": "Contratar",
+    "features": "Características:",
+    "addedToCart": "Producto agregado al carrito",
+    "notFound": "Producto no encontrado",
+    "notFoundDesc": "El producto que buscas no existe o ha sido removido."
+  },
+  "privacy": {
+    "title": "Aviso de Privacidad",
+    "construction": "Esta página está en construcción. Pronto estará disponible."
+  },
+  "terms": {
+    "title": "Términos y Condiciones",
+    "construction": "Esta página está en construcción. Pronto estará disponible."
+  },
+  "refunds": {
+    "title": "Política de Devoluciones y Reembolsos",
+    "construction": "Esta página está en construcción. Pronto estará disponible."
+  },
+  "errors": {
+    "requiredField": "Este campo es obligatorio",
+    "invalidEmail": "Ingresa un correo electrónico válido",
+    "invalidPhone": "Ingresa un número de teléfono válido",
+    "invalidPostalCode": "Ingresa un código postal válido (5 dígitos)",
+    "invalidAmount": "Ingresa un monto válido mayor a 0",
+    "invalidCard": "Verifica los datos de tu tarjeta",
+    "invalidExpiry": "Ingresa una fecha de vencimiento válida (MM/AA)",
+    "invalidCvc": "Ingresa un CVC válido",
+    "generic": "Ocurrió un error inesperado"
+  },
+  "emails": {
+    "contact": {
+      "adminTitle": "📨 Nuevo mensaje de contacto",
+      "name": "Nombre",
+      "company": "Compañía",
+      "email": "Correo",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "clientTitle": "✅ Mensaje recibido",
+      "greeting": "Hola {name},",
+      "clientBody": "Hemos recibido tu mensaje y nos pondremos en contacto contigo pronto."
+    },
+    "order": {
+      "clientTitle": "✅ ¡Compra confirmada!",
+      "greeting": "Hola {name},",
+      "clientBody": "Tu pedido ha sido procesado correctamente.",
+      "summary": "Resumen de tu pedido",
+      "transaction": "Transacción",
+      "thanks": "Gracias por tu compra en",
+      "adminTitle": "📦 Nueva compra",
+      "customer": "Cliente",
+      "email": "Correo"
+    },
+    "quote": {
+      "adminTitle": "📋 Nueva cotización personalizada",
+      "clientTitle": "✅ Cotización recibida",
+      "greeting": "Hola {name},",
+      "clientBody": "Hemos recibido tu solicitud de cotización. Nuestro equipo la revisará y se pondrá en contacto contigo pronto."
+    }
+  },
+  "products": {
+    "plan-express": {
+      "name": "Plan Express",
+      "description": "Consultoría inicial para definir requerimientos.",
+      "features": [
+        "Consultoría inicial para definir requerimientos (15 minutos)",
+        "Recomendaciones básicas para desarrollo web o app"
+      ]
+    },
+    "plan-inicio": {
+      "name": "Plan Inicio",
+      "description": "Diseño de página web básica.",
+      "features": [
+        "Diseño de página web básica (una sección estática)",
+        "Soporte técnico limitado (3 días)"
+      ]
+    },
+    "plan-basico-plus": {
+      "name": "Plan Básico Plus",
+      "description": "Desarrollo de app y web simples.",
+      "features": [
+        "Desarrollo de una aplicación móvil (funciones básicas)",
+        "Diseño de página web simple (1 sección)",
+        "Soporte técnico limitado (7 días)"
+      ]
+    },
+    "paquete-esencial": {
+      "name": "Esencial",
+      "description": "Paquete esencial para empezar.",
+      "features": [
+        "Desarrollo de aplicación móvil básica",
+        "Diseño de una página web sencilla",
+        "Soporte técnico básico (15 días)"
+      ]
+    },
+    "paquete-inicial": {
+      "name": "Inicial",
+      "description": "Paquete inicial para proyectos pequeños.",
+      "features": [
+        "Desarrollo de una aplicación móvil básica",
+        "Diseño de una página web con hasta 3 secciones",
+        "Soporte técnico básico (1 mes)"
+      ]
+    },
+    "paquete-avanzado": {
+      "name": "Avanzado",
+      "description": "Paquete avanzado con más funciones.",
+      "features": [
+        "Desarrollo de aplicación móvil con funciones intermedias",
+        "Diseño y desarrollo de una página web con hasta 5 secciones",
+        "Soporte técnico estándar (1 mes)"
+      ]
+    },
+    "paquete-profesional": {
+      "name": "Profesional",
+      "description": "Paquete profesional para negocios en crecimiento.",
+      "features": [
+        "Desarrollo de aplicación móvil intermedia",
+        "Diseño y desarrollo de una página web con hasta 7 secciones",
+        "Soporte técnico estándar (2 meses)"
+      ]
+    },
+    "paquete-empresarial": {
+      "name": "Empresarial",
+      "description": "Paquete empresarial completo.",
+      "features": [
+        "Desarrollo de aplicación móvil personalizada",
+        "Diseño y desarrollo de una página web completa con hasta 10 secciones",
+        "Soporte técnico (3 meses)",
+        "Sistema de gestión de contenidos (CMS)"
+      ]
+    },
+    "paquete-corporativo": {
+      "name": "Corporativo",
+      "description": "Paquete corporativo avanzado.",
+      "features": [
+        "Desarrollo de aplicación móvil con funciones avanzadas",
+        "Diseño y desarrollo de una página web con hasta 12 secciones",
+        "Soporte técnico (5 meses)",
+        "Sistema de gestión de contenidos (CMS)"
+      ]
+    },
+    "paquete-premium": {
+      "name": "Premium",
+      "description": "Paquete premium con personalización completa.",
+      "features": [
+        "Desarrollo de aplicación móvil con funciones avanzadas y personalización completa",
+        "Diseño y desarrollo de una página web con hasta 15 secciones",
+        "Soporte técnico premium (8 meses)",
+        "Sistema de gestión de contenidos (CMS), optimización SEO avanzada y análisis de datos básicos"
+      ]
+    },
+    "paquete-elite": {
+      "name": "Elite",
+      "description": "Paquete elite con UI premium.",
+      "features": [
+        "Desarrollo de aplicación móvil con funciones avanzadas, personalización completa y diseño de interfaz de usuario (UI)",
+        "Diseño y desarrollo de una página web con hasta 18 secciones",
+        "Soporte técnico premium (10 meses)",
+        "Sistema de gestión de contenidos (CMS), optimización SEO avanzada, análisis de datos detallado y marketing digital básico"
+      ]
+    },
+    "paquete-vip": {
+      "name": "VIP",
+      "description": "Paquete VIP con marketing avanzado.",
+      "features": [
+        "Desarrollo de aplicación móvil con funciones avanzadas, personalización completa y diseño de interfaz de usuario (UI) premium",
+        "Diseño y desarrollo de una página web con hasta 20 secciones",
+        "Soporte técnico premium (12 meses)",
+        "Sistema de gestión de contenidos (CMS), optimización SEO avanzada, análisis de datos detallado, marketing digital avanzado y gestión de redes sociales básica"
+      ]
+    },
+    "paquete-ejecutivo": {
+      "name": "Ejecutivo",
+      "description": "Paquete ejecutivo con UI/UX completo.",
+      "features": [
+        "Desarrollo de aplicación móvil con funciones avanzadas, personalización completa y diseño de interfaz de usuario (UI) y experiencia de usuario (UX)",
+        "Diseño y desarrollo de una página web con hasta 25 secciones",
+        "Soporte técnico premium (12 meses)",
+        "Sistema de gestión de contenidos (CMS), optimización SEO avanzada, análisis de datos detallado, marketing digital completo, gestión de redes sociales avanzada y consultoría personalizada"
+      ]
+    },
+    "plan-pro": {
+      "name": "Pro",
+      "description": "Plan Pro con estrategia integral.",
+      "features": [
+        "Desarrollo de aplicación móvil: Funciones avanzadas, personalización completa y diseño de interfaz de usuario (UI) con mejoras en experiencia de usuario (UX).",
+        "Diseño y desarrollo de página web: Hasta 30 secciones con diseño responsivo y optimización para dispositivos móviles.",
+        "Soporte técnico: Premium por 14 meses.",
+        "Sistema de gestión de contenidos (CMS) avanzado, optimización SEO avanzada.",
+        "Marketing digital: Estrategia integral con campañas de publicidad en redes sociales y análisis de rendimiento.",
+        "Consultoría personalizada: Asesoría para la expansión de negocio digital y estrategia de contenido."
+      ]
+    },
+    "plan-master": {
+      "name": "Master",
+      "description": "Plan Master con IA integrada.",
+      "features": [
+        "Desarrollo de aplicación móvil: Funciones avanzadas con integración de IA (Inteligencia Artificial) y diseño UI/UX premium.",
+        "Diseño y desarrollo de página web: Hasta 35 secciones, con integración de características interactivas y personalización avanzada.",
+        "Soporte técnico: Premium por 18 meses.",
+        "Sistema de gestión de contenidos (CMS) de última generación, optimización SEO completa.",
+        "Marketing digital: Estrategia completa con campañas en múltiples plataformas, incluyendo Google Ads y publicidad nativa.",
+        "Gestión de redes sociales: Avanzada con análisis y optimización de campañas, y generación de contenido."
+      ]
+    },
+    "plan-elite-plus": {
+      "name": "Elite Plus",
+      "description": "Plan Elite Plus con AR/VR.",
+      "features": [
+        "Desarrollo de aplicación móvil: Funciones avanzadas con integración de AR (Realidad Aumentada) y VR (Realidad Virtual), y diseño UI/UX de alta gama.",
+        "Diseño y desarrollo de página web: Hasta 40 secciones con funciones de personalización extrema y diseño adaptativo para todos los dispositivos.",
+        "Soporte técnico: Premium por 24 meses.",
+        "CMS ultra avanzado, optimización SEO total con reportes detallados.",
+        "Marketing digital: Estrategia global con investigación de mercado, campañas avanzadas en redes sociales, marketing de contenidos, y optimización de conversiones.",
+        "Gestión de redes sociales: Integral con creación de campañas específicas, gestión de comunidad y análisis de tendencias."
+      ]
+    }
+  }
+}
