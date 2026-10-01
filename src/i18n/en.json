@@ -191,17 +191,269 @@
     "notFoundDesc": "The product you are looking for does not exist or has been removed."
   },
   "privacy": {
-    "title": "Privacy Notice",
-    "construction": "This page is under construction. It will be available soon."
+  "title": "Privacy Notice",
+  "intro": "LATDEV SOLUTIONS, S.A. de C.V. (hereinafter \"CircuitoDigital\"), with address at AV. BAJA CALIFORNIA 245, OFFICE 501, OFFICE 501-L, COL. HIPODROMO CONDESA, MEXICO CITY. ZIP CODE 06140, and with website circuitodigital.com.mx (hereinafter the \"Site\") is responsible for the use and protection of your personal data and/or sensitive personal data, and in this regard we inform you the following:",
+  "purposes": {
+    "title": "For what purposes will we use your personal and/or sensitive data?",
+    "intro": "The personal and/or sensitive data we collect from you will be used for the following purposes, depending on the nature of the legal or commercial relationship between CircuitoDigital and you:",
+    "list": [
+      "Contracting of CircuitoDigital services;",
+      "Creating and/or updating our database;",
+      "Contacting you to confirm and follow up on the services you contract or products you purchase through our site or our app;",
+      "Following up on or responding to any question, comment or suggestion you make through our app or website;",
+      "Communicating and informing you about any benefit or change in the services contracted by you;",
+      "Managing the delivery of orders and purchases made by you;",
+      "Data analysis activities through the website or app through the use of artificial intelligence and similar technologies for transactional analysis and processing;",
+      "Sending contact information to users of the Controller's websites or apps to achieve its purposes;",
+      "Having transactional visibility over your purchases and acquisitions for better service, and",
+      "Complying with the obligations contracted with you."
+    ],
+    "secondary": "Additionally, we will use your personal information for the following secondary purposes that are not necessary for the requested service, but that allow us and facilitate providing you with better attention:",
+    "secondaryList": [
+      "Delivery and shipment of promotional material of our own services and products or those of our business partners.",
+      "Service quality evaluations;",
+      "Delivery of information to third parties with whom we have commercial alliances,",
+      "Personalized commercial prospecting by offering our products and services, as well as any offer or promotion related to them, and",
+      "Statistical studies, such as surveys or studies on consumption and market habits;"
+    ],
+    "optOut": "In case you do not want your personal and/or sensitive data to be used for these secondary purposes, you may notify us through the following email address: support@circuitodigital.com.mx, where they will respond indicating the procedure to follow to exercise your rights. Your refusal to process your data in accordance with the Secondary Purposes does not represent a reason that prevents CircuitoDigital from providing the services or that leads us to terminate the established relationship.",
+    "collection": "For the purposes indicated in this Privacy Notice, we may collect your personal data in different ways: when you provide it to us directly; when you visit our website or use our online services, in the activities you carry out within our facilities and when we obtain information through other sources that are permitted by applicable legislation and regulations. We collect your personal data directly when you provide it to us through various means, such as when you participate in our promotions or give us information so that we can provide you with a service. As well as the personal data we collect when you visit our website or use our online services or Personal Data we collect through other sources permitted by applicable legislation and regulations. We may obtain information about you from other sources permitted by law, such as Cookies, telephone or employment directories."
   },
-  "terms": {
-    "title": "Terms and Conditions",
-    "construction": "This page is under construction. It will be available soon."
+  "whatData": {
+    "title": "What personal data will we use for these purposes?",
+    "intro": "For the purposes of this privacy notice, personal data shall be understood as any information concerning an identified or identifiable natural person, for example, identification data, employment data, asset data and financial data. To carry out the purposes described in this privacy notice, we will use the following personal data:",
+    "list": [
+      "Identification data;",
+      "Contact data, and in case you wish to contract CircuitoDigital services;",
+      "Asset data and/or Financial data,"
+    ]
   },
-  "refunds": {
+  "sharing": {
+    "title": "With whom do we share your personal information and for what purposes?",
+    "intro": "We inform you that your personal data, where applicable, is shared with the following persons, companies, organizations or authorities other than us, safeguarding their privacy, solely and exclusively for the following purposes, unless you expressly indicate otherwise:",
+    "consent": "Regarding transfers that require your consent, we require obtaining your express consent, which will be understood as granted if you accept this privacy notice by checking the corresponding box, after having read it. We commit to not transferring your personal information to third parties without your consent, except for the exceptions provided in article 37 of the Federal Law on Protection of Personal Data Held by Private Parties, as well as to carry out this transfer under the terms established by that law. Except in the cases established in article 37 of the aforementioned law, if you do not express your opposition for your Personal Data to be transferred, it will be understood that you have granted your consent for it.",
+    "commitment": "CircuitoDigital commits to not transferring, sharing or transmitting your personal data to third parties without your prior consent, except when such transfer: (i) is necessary for the fulfillment or maintenance of a legal relationship between you and CircuitoDigital; (ii) is carried out between subsidiaries, affiliates and/or the parent company of CircuitoDigital; (iii) is required by competent authorities in the cases that are legally provided; or (iv) is legally required under current legislation and regulations.",
+    "abroad": "In the aforementioned cases, your personal data may be transferred and processed inside and outside the country, by persons other than CircuitoDigital. In this sense, your information may be shared with subsidiaries, affiliates, controlling companies, shareholders, partners and third parties with whom we have commercial relationships, for the fulfillment of contractual obligations, requirements of competent authorities and those of our corporate purpose.",
+    "mechanism": "We make available to you the mechanism described in the following section of this privacy notice so that, where applicable, you can communicate your refusal for such transfers to be carried out."
+  },
+  "arco": {
+    "title": "How can you access, rectify or cancel your personal and/or sensitive data, or oppose its use?",
+    "intro": "You have the right to know what personal and/or sensitive data we have about you, what we use it for and the conditions of the use we give it (Access). Likewise, it is your right to request the correction of your personal information in case it is outdated, inaccurate or incomplete (Rectification); that we remove it from our records or databases when you consider that it is not being used properly (Cancellation); as well as to oppose the use of your personal and/or sensitive data for specific purposes (Opposition). These rights are known as ARCO Rights.",
+    "procedure": "To exercise any of the ARCO Rights, you must submit the respective request in writing, at the address of CircuitoDigital referred to above or through an email sent to the following address: support@circuitodigital.com.mx and addressed to the person in charge of the Personal Data Department of CircuitoDigital.",
+    "requirements": "The request referred to in the previous paragraph must contain: (i) name of the information holder, their address and email or other means to communicate the response; (ii) documents that prove their identity or the corresponding legal representation; (iii) clear and precise description of the personal data and/or sensitive personal data with respect to which the corresponding right is exercised; and (iv) any other element that facilitates the location of the personal and/or sensitive data. Regarding the procedure and requirements for the exercise of your ARCO Rights, we inform you the following:",
+    "items": [
+      {
+        "label": "a)",
+        "title": "Through what means can the holder and, where applicable, their representative, as well as the latter's capacity, prove their identity?",
+        "text": "In the case of the holder, through a simple copy of their valid official identification. In the case of acting through a representative, they must present a power of attorney that specifically authorizes them to exercise ARCO rights on behalf of the holder, signed by two witnesses, attaching copies of valid official identifications of the Holder, the representative and the witnesses. Similarly, a notarized power of attorney may be presented, attaching copies of valid official identifications of the Holder and the representative."
+      },
+      {
+        "label": "b)",
+        "title": "What information and/or documentation must the request contain?",
+        "text": "The clear and precise description of the personal data and/or sensitive personal data with respect to which the corresponding right is exercised, as well as any background that allows locating the corresponding data."
+      },
+      {
+        "label": "c)",
+        "title": "In how many days will we respond to your request?",
+        "text": "Within 20 (twenty) business days we will notify you of the admissibility of your request. If it is admissible, we will make your request effective within 15 (fifteen) calendar days following the day on which we notified you about the admissibility of your request."
+      },
+      {
+        "label": "d)",
+        "title": "By what means will we communicate the response to your request?",
+        "text": "By email or to your address, in case you do not have an email available."
+      },
+      {
+        "label": "e)",
+        "title": "In what media can the personal and/or sensitive data that you request, where applicable, be reproduced?",
+        "text": "In none."
+      }
+    ]
+  },
+  "revoke": {
+    "title": "You can revoke your consent for the use of your personal and/or sensitive data",
+    "text": "You can revoke the consent that, where applicable, you have granted us for the processing of your personal and/or sensitive data. However, it is important to note that not in all cases we will be able to attend to your request or conclude the use immediately, since it is possible that due to some legal obligation we require to continue processing your personal and/or sensitive data. Likewise, you must consider that for certain purposes, the revocation of your consent will imply that we cannot continue providing the service you requested, or the conclusion of your relationship with us. To revoke your consent, you must submit your request through the procedure and means described in the previous section."
+  },
+  "limit": {
+    "title": "How can you limit the use or disclosure of your personal information?",
+    "text": "In order for you to limit the use and disclosure of your personal information, you must submit your request through the procedure and means described in the previous sections."
+  },
+  "technologies": {
+    "title": "The use of analysis technologies on our Internet portal.",
+    "intro": "We inform you that on our website we use web beacons or different bugs, through which it is possible to analyze your behavior as an Internet user within our portal, with the aim of providing you with better service and user experience while browsing our Site, as well as offering you new products and services based on your preferences. The personal and/or sensitive data we collect through these technologies will be used for the following purposes:",
+    "purposes": [
+      "Analysis and statistics of our portal;",
+      "Improving the service, quality and performance of our portal, and",
+      "Offering you new products and services based on your preferences."
+    ],
+    "dataIntro": "The personal data we obtain from these analysis technologies are the following:",
+    "dataList": [
+      "Technical characteristics of the user's equipment;",
+      "Preferred language of the user;",
+      "Region in which the user is located;",
+      "Type of browser of the user;",
+      "Type of operating system of the user, and",
+      "Date and time of the beginning and end of a user session."
+    ],
+    "disable": "These technologies may be disabled as long as you have a web browser with private browsing and it is enabled."
+  },
+  "changes": {
+    "title": "How can you learn about changes to this privacy notice?",
+    "intro": "This privacy notice may undergo modifications, changes or updates derived from new legal requirements; from our own needs due to the products or services we offer; from our privacy practices; from changes in our business model, or for other reasons.",
+    "notification": "We commit to keeping you informed about the changes that this privacy notice may undergo, through updates to the notice published directly on the CircuitoDigital Internet portal.",
+    "compliance": "CircuitoDigital processes your personal data and/or sensitive personal data in accordance with the principles of lawfulness, consent, information, quality, purpose, loyalty, proportionality and responsibility under the provisions of the Federal Law on Protection of Personal Data Held by Private Parties, its Regulations and other applicable provisions."
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "For more information regarding this privacy notice, or if you have any doubt or comment, you can contact our team through email at the following address: support@circuitodigital.com.mx and we will respond as soon as possible."
+  }
+},
+"terms": {
+  "title": "Terms and Conditions",
+  "intro": "LATDEV SOLUTIONS, S.A. de C.V. (hereinafter \"CircuitoDigital\"), with address in Mexico City, makes available to you these Terms and Conditions of Use of the site with domain circuitodigital.com.mx (hereinafter the \"Site\"), which we recommend you read carefully before using the Site and contracting CircuitoDigital Services.",
+  "acceptance": "By accessing and using the Site and the Services, the User accepts to comply with and be subject to these Terms and Conditions. If the User does not agree with these Terms and Conditions, they must refrain from using the Site and the Services.",
+  "access": "Access to the Site is free, without prejudice to the cost of the costs offered for the acquisition of the Services offered by CircuitoDigital. The User commits to using the Site in a lawful and respectful manner, refraining from any action that could damage, disable, overload or deteriorate the Site.",
+  "object": {
+    "title": "Purpose of the Terms and Conditions",
+    "text": "The purpose of these Terms and Conditions is to inform the User about the operation of the CircuitoDigital website (hereinafter, the \"Site\"), as well as to detail how the provision of the services offered by CircuitoDigital (hereinafter, the \"Services\") is carried out.",
+    "servicesIntro": "CircuitoDigital is dedicated to the development of digital solutions, which include:",
+    "services": [
+      "Mobile applications: Development and maintenance of mobile applications for various platforms.",
+      "Web design: Creation and optimization of websites, including design, development and maintenance."
+    ]
+  },
+  "plans": {
+    "title": "Plans and Prices:",
+    "text": "CircuitoDigital offers various plans for its Services, which are detailed on our Site. All prices are presented in Mexican pesos (MXN) and include the Value Added Tax (VAT) of 16%."
+  },
+  "payment": {
+    "title": "Payment Methods:",
+    "intro": "Payment for the Services can be made through our authorized payment methods, which include:",
+    "methods": [
+      "Credit card",
+      "Debit card"
+    ]
+  },
+  "privacySection": {
+    "title": "Privacy and Data Protection",
+    "text": "CircuitoDigital commits to protecting the privacy of Users. The personal information provided by the User will be treated in accordance with our Privacy Policy, which is available on the Site. The User has the right to access, rectify and cancel their personal data in accordance with applicable legislation."
+  },
+  "securePayment": {
+    "title": "Secure Payment Processing",
+    "text": "All transactions made through our website will be processed securely through the Openpay payment gateway. This integration guarantees our users an efficient, protected and transparent shopping experience in each operation."
+  },
+  "ip": {
+    "title": "Intellectual Property",
+    "intro": "All content on the Site, including but not limited to, texts, graphics, images, logos, icons, software, designs, illustrations, photographs, video clips, audio, interfaces, source code and any other material (hereinafter, the \"Content\"), is the property of CircuitoDigital or its licensors and is protected by copyright, registered trademarks and other intellectual property laws.",
+    "content": "The Content of the Site is protected by the copyright laws of Mexico and applicable international treaties. CircuitoDigital and/or its licensors retain all rights to the Content. Unless otherwise indicated, the User does not have the right to copy, reproduce, modify, distribute, transmit, display, perform, publish, license, create derivative works, transfer or sell any information, software, products or services obtained from the Site without the prior written consent of CircuitoDigital.",
+    "brands": "The trademarks, logos, trade names, and other distinctive signs that appear on the Site (hereinafter, the \"Trademarks\") are the property of CircuitoDigital or its licensors. Unauthorized use of the Trademarks may constitute a violation of registered trademark laws, copyright and other industrial property laws. It is strictly prohibited to use any of the Trademarks without the prior written permission of CircuitoDigital."
+  },
+  "license": {
+    "title": "Limited Use License",
+    "intro": "CircuitoDigital grants the User a limited, revocable and non-exclusive license to access and use the Site and its Content solely for personal and non-commercial use. This license does not include any right to: (i) Modify or download the Content (except in browser cache, or as necessary to view the Content); (ii) Use the Site or its Content for any commercial or resale use; (iii) Collect or use any product listing, descriptions, prices, or any other information; (iv) Make derivative use of the Site or its Content; and (v) Use data mining tools, robots or similar data collection and extraction methods.",
+    "prohibitions": "The User commits to not using the Site and its Content to: (i) Carry out acts that violate the intellectual property rights of CircuitoDigital or third parties; (ii) Publish, transmit, or distribute any material that infringes any intellectual property right or privacy right of third parties; (iii) Reverse engineer, decompile, disassemble, or attempt to obtain the source code of the Site's software; and/or (iv) Use any meta tag or any other \"hidden text\" using the name or Trademarks of CircuitoDigital without the express written consent of CircuitoDigital.",
+    "notificationIntro": "If the User considers that any Content on the Site infringes their intellectual property rights, they must notify CircuitoDigital by providing the following information:",
+    "notificationItems": [
+      "A description of the intellectual property right that is alleged to have been infringed.",
+      "A description of the material that is alleged to have been infringed and its location on the Site.",
+      "Contact information of the claimant, such as address, telephone number and email address.",
+      "A good faith statement that the use of the material is not authorized by the holder of the intellectual property right, their agent, or the law.",
+      "A statement that the information provided in the notification is accurate and, under penalty of perjury, that the claimant is authorized to act on behalf of the holder of the exclusive right that is allegedly infringed."
+    ],
+    "warning": "Unauthorized use of the Content or the Site may result in the violation of intellectual property laws, privacy and publicity rights, communication regulations, and other statutes and regulations. CircuitoDigital reserves the right to take the corresponding legal measures against any unauthorized use of the Content of the Site."
+  },
+  "liability": {
+    "title": "Limitation of Liability",
+    "intro": "CircuitoDigital strives to ensure that the Site and the Services work correctly and efficiently. However, CircuitoDigital does not guarantee that the Site or the Services will be free of errors, interruptions, delays or imperfections.",
+    "asIs": "The Site and the Services are provided \"as is\" and \"as available\", without warranties of any kind, whether express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, title and non-infringement. CircuitoDigital does not guarantee that the Site or the Services will meet the User's expectations, or that they will be uninterrupted, secure, or free of errors.",
+    "damages": "To the maximum extent permitted by applicable law, CircuitoDigital will not be liable to the User or any third party for any direct, indirect, incidental, special, punitive, consequential or exemplary damages resulting from the use or inability to use the Site or the Services, including, but not limited to: Loss of profits; Loss of income: Loss of data; Loss of goodwill; Loss of use; Business interruption and/or Any other intangible damage.",
+    "notResponsibleIntro": "CircuitoDigital will not be responsible for:",
+    "notResponsibleItems": [
+      "Any error, omission, interruption, deletion, defect, delay in operation or transmission, communication line failure, theft, destruction or unauthorized access to, or alteration of, the User's communications.",
+      "Any problem or technical malfunction of any network or telephone line, online computer systems, servers or providers, computer equipment, software, failure of any email or player due to technical problems or traffic congestion on the Internet or on any website, or any combination thereof, including any injury or damage to the User or any person related to or resulting from participation in or downloading of materials in connection with the Site or the Services."
+    ]
+  },
+  "indemnity": {
+    "title": "Indemnification",
+    "text": "The User commits to indemnify and hold harmless CircuitoDigital, its affiliates, directors, employees and agents, from any claim or demand, including reasonable attorneys' fees, made by any third party due to the misuse of the Site and the Services by the User."
+  },
+  "refundPolicy": {
     "title": "Refund and Returns Policy",
-    "construction": "This page is under construction. It will be available soon."
+    "text": "CircuitoDigital has a refund and returns policy designed to guarantee the satisfaction of its Clients. We invite you to review it in detail on our website in the corresponding section. By accepting these terms and conditions, the User acknowledges having been informed about the existence of said policy and that any related request must adhere to the terms established therein."
   },
+  "thirdParties": {
+    "title": "Third Parties and External Links",
+    "text": "The Site may contain links to third-party websites. CircuitoDigital is not responsible for the content, privacy policies or practices of third-party websites. The User accesses these links at their own risk."
+  },
+  "suspension": {
+    "title": "Suspension and Termination",
+    "text": "CircuitoDigital reserves the right to suspend or terminate the User's access to the Site and the Services, at any time and for any reason, including, but not limited to, the breach of these Terms and Conditions."
+  },
+  "jurisdiction": {
+    "title": "Applicable Law and Jurisdiction",
+    "text": "These Terms and Conditions will be governed and interpreted in accordance with the laws of Mexico. Any dispute that arises in relation to these Terms and Conditions will be submitted to the exclusive jurisdiction of the competent courts of Mexico City."
+  },
+  "modifications": {
+    "title": "Modifications to the Terms and Conditions",
+    "text": "CircuitoDigital reserves the right to modify these Terms and Conditions at any time. The modifications will be effective from their publication on the Site. The User is recommended to periodically review the Terms and Conditions to be informed about any change."
+  },
+  "contact": {
+    "title": "Contact and Support",
+    "text": "For any query, doubt or support request, the User can contact us through the contact means provided on the Site."
+  }
+},
+"refunds": {
+  "title": "Refund and Returns Policy",
+  "intro": "LATDEV SOLUTIONS S.A. DE C.V., hereinafter CircuitoDigital, commits to providing the best technology solutions to satisfy your needs; however, we know that sometimes situations may arise that cannot be entirely positive. That is why we offer this CircuitoDigital Refund and Returns Policy to establish a procedure and options in the cases that warrant it.",
+  "suggestion": "We suggest you read the following policy carefully.",
+  "objective": {
+    "title": "Objective",
+    "text": "The objective of this policy is to establish the guidelines and procedures for refunds and returns of the services offered by CircuitoDigital, guaranteeing the satisfaction of our clients and maintaining high quality standards in our digital solutions.",
+    "scope": "This policy applies to all digital services offered by CircuitoDigital."
+  },
+  "conditions": {
+    "title": "Conditions for Refunds and Returns",
+    "intro": "Since the services offered by CircuitoDigital are digital and personalized in nature, refund and return requests will be evaluated on a case-by-case basis. The following situations will be considered eligible for a refund:",
+    "items": [
+      "Serious Technical Failure: If it is demonstrated that the delivered digital service presents serious technical failures that prevent its use and that cannot be resolved within a reasonable period.",
+      "Breach of Terms: If CircuitoDigital does not comply with the terms and specifications agreed in the service contract."
+    ],
+    "period": "Request Period: Refund and return requests must be made within the first 30 calendar days from the date of delivery of the service. Requests made outside this period will not be considered."
+  },
+  "procedure": {
+    "title": "Procedure to Request a Refund",
+    "items": [
+      "The client must contact the CircuitoDigital customer service team through the contact means provided on our Site, specifying the reason for the refund request and providing any necessary evidence (such as screenshots, detailed descriptions of the failure, etc.).",
+      "Once the request is received, the CircuitoDigital technical support team will evaluate the situation and determine whether the request meets the conditions established in this policy. This process may include the technical review of the delivered digital service.",
+      "CircuitoDigital commits to resolving the refund request within a maximum period of 15 business days from the date of receipt of the complete request. The client will be informed of the resolution by email.",
+      "If the request is approved, CircuitoDigital will proceed to make the corresponding refund. The refund amount will be calculated based on the cost of the contracted service, discounting any administrative expense or costs incurred in the service delivery process.",
+      "The refund of the money will take time to arrive according to your bank's guidelines; otherwise, CircuitoDigital is not responsible for your money being reflected in your bank account."
+    ]
+  },
+  "refundMethod": {
+    "title": "Refund Method",
+    "text": "Refunds will be made using the same payment method used by the client at the time of contracting the service. Depending on the client's banking entity, processing times may vary."
+  },
+  "exclusions": {
+    "title": "Exclusions",
+    "intro": "The following cases will not be eligible for refund:",
+    "items": [
+      "Change of Mind: If the client simply changes their mind after purchasing the service.",
+      "Incorrect Use: If the problem was caused by incorrect use of the service by the client.",
+      "Fully Used Services: If the contracted service has been fully used and delivered in accordance with the agreed specifications."
+    ]
+  },
+  "modifications": {
+    "title": "Modifications to the Policy",
+    "text": "CircuitoDigital reserves the right to modify this refund and returns policy at any time. The modifications will be effective from their publication on the Site. Clients are recommended to periodically review this policy to be informed about any change."
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "For any query or request related to this refund and returns policy, clients can contact our customer service team through the following means:",
+    "email": "Email: support@circuitodigital.com.mx",
+    "phone": "Phone: 55 5941 5147",
+    "address": "Address: AV. BAJA CALIFORNIA 245, OFFICE 501, OFFICE 501-L, COL. HIPODROMO CONDESA, MEXICO CITY. ZIP CODE 06140"
+  }
+},
   "errors": {
     "requiredField": "This field is required",
     "invalidEmail": "Please enter a valid email",
