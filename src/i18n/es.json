@@ -92,14 +92,14 @@
     "hire": "Contratar",
     "features": "Características:",
     "assist": {
-      "title": "Nos apasiona asistir.",
-      "text": "¿Todavía no estás seguro de lo que necesitas? Estamos encantados de ayudarte, incluso si aún no eres nuestro cliente. Podemos sugerirte un plan personalizado que se ajuste a tus necesidades específicas.",
-      "text2": "Contáctanos para conversar, o nos comunicaremos contigo lo antes posible.",
+      "title": "Estamos listos para ayudarte.",
+      "text": "¿Aún no tienes claro qué servicios necesitas? Cuenta con nosotros: también podemos orientarte aunque todavía no trabajemos juntos y recomendarte una propuesta hecha a la medida de tu proyecto.",
+      "text2": "Escríbenos para platicar; si lo prefieres, nuestro equipo se pondrá en contacto contigo pronto.",
       "cta": "Contactar"
     },
     "perfect": {
-      "title": "Encuentra el plan perfecto para tu negocio",
-      "text": "Cada empresa es única, y nuestros planes están diseñados para adaptarse a tus necesidades específicas. Desde desarrollo tecnológico hasta estrategias de marketing, te ofrecemos soluciones integrales para potenciar tu presencia digital."
+      "title": "Elige el plan ideal para tu empresa",
+      "text": "Cada negocio tiene objetivos distintos. Por eso creamos planes flexibles que responden a lo que tu empresa necesita, con servicios que van desde soluciones tecnológicas hasta marketing para fortalecer tu presencia en línea."
     }
   },
   "custom": {

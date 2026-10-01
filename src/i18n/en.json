@@ -92,14 +92,14 @@
     "hire": "Hire",
     "features": "Features:",
     "assist": {
-      "title": "We are passionate about assisting.",
-      "text": "Still not sure what you need? We are happy to help you, even if you are not our client yet. We can suggest a custom plan that fits your specific needs.",
-      "text2": "Contact us to chat, or we will reach out to you as soon as possible.",
+      "title": "We're here to help.",
+      "text": "Not sure which services are right for you yet? We can guide you, even before we work together, and recommend an offer tailored to your project.",
+      "text2": "Get in touch for a conversation, or our team will contact you soon.",
       "cta": "Contact"
     },
     "perfect": {
-      "title": "Find the perfect plan for your business",
-      "text": "Every company is unique, and our plans are designed to adapt to your specific needs. From technology development to marketing strategies, we offer comprehensive solutions to boost your digital presence."
+      "title": "Choose the right plan for your business",
+      "text": "Every business has different goals. That's why our flexible plans are built around what your company needs, with services ranging from technology solutions to marketing that strengthens your online presence."
     }
   },
   "custom": {
