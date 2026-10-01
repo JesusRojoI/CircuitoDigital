@@ -60,29 +60,29 @@
   },
   "home": {
     "hero": {
-      "title": "Haga crecer su negocio con nosotros",
-      "subtitle": "Desarrollamos soluciones digitales a medida para impulsar su éxito. Transforme su presencia en línea con nuestras aplicaciones móviles, diseño web.",
-      "cta": "Empezar"
+      "title": "Impulsa el crecimiento de tu empresa junto a nosotros",
+      "subtitle": "Diseñamos soluciones tecnológicas hechas a la medida para llevar tu negocio más lejos. Renueva tu presencia digital con aplicaciones móviles y sitios web creados para destacar.",
+      "cta": "Comenzar ahora"
     },
     "marquee": {
-      "items": ["Diseño Web", "UI/UX Design", "Aplicaciones"]
+      "items": ["Creación de Sitios Web", "Experiencia UI/UX", "Apps Móviles"]
     },
     "solutions": {
-      "title": "Brindando soluciones digitales",
-      "cta": "Contáctenos"
+      "title": "Creamos tecnología que impulsa tu marca",
+      "cta": "Hablemos"
     },
     "services": {
-      "title": "Nuestros Servicios",
-      "viewPlans": "Ver planes",
-      "webDev": "Desarrollo Web",
-      "webDesign": "Diseño Web",
-      "webDesignDesc": "Creamos sitios web personalizados y profesionales que se adaptan a sus necesidades y objetivos comerciales.",
-      "mobileApps": "Aplicaciones Móviles",
-      "mobileAppsDesc": "Desarrollamos aplicaciones móviles funcionales y fáciles de usar, optimizadas para brindar la mejor experiencia a sus usuarios.",
-      "serviceNames": ["Diseño Web", "Aplicaciones Móviles"]
+      "title": "Lo que hacemos por ti",
+      "viewPlans": "Explorar planes",
+      "webDev": "Ingeniería Web",
+      "webDesign": "Creación de Sitios Web",
+      "webDesignDesc": "Diseñamos páginas web exclusivas y profesionales, alineadas a las metas y al estilo de tu marca.",
+      "mobileApps": "Desarrollo de Apps Móviles",
+      "mobileAppsDesc": "Construimos aplicaciones móviles prácticas y ágiles, pensadas para ofrecer la mejor experiencia a cada usuario.",
+      "serviceNames": ["Creación de Sitios Web", "Desarrollo de Apps Móviles"]
     },
     "innovation": {
-      "text": "En un mundo donde la innovación es clave, estamos aquí para llevar su marca al siguiente nivel. Nuestro equipo de expertos en marketing y desarrollo tecnológico trabaja incansablemente para crear soluciones que no solo satisfagan sus necesidades actuales, sino que también anticipen las tendencias del futuro."
+      "text": "Vivimos en una época donde adaptarse es indispensable, y nuestro propósito es llevar tu marca más lejos. Un equipo apasionado por la tecnología y el marketing trabaja día a día para construir herramientas que respondan a lo que necesitas hoy y te preparen para lo que viene mañana."
     }
   },
   "plans": {
@@ -124,21 +124,21 @@
     "customProductName": "Personalizado"
   },
   "contact": {
-    "title": "Contacto",
-    "subtitle": "Escríbanos",
+    "title": "Estemos en contacto",
+    "subtitle": "Cuéntanos tu proyecto",
     "name": "Nombre",
     "lastName": "Apellidos",
     "phone": "Teléfono",
     "email": "Correo electrónico",
     "message": "Mensaje",
-    "send": "Enviar",
-    "emailLabel": "Correo",
-    "phoneLabel": "Teléfono",
-    "addressLabel": "Dirección",
-    "successMessage": "Tu mensaje ha sido enviado. Nos pondremos en contacto contigo pronto.",
-    "errorMessage": "Hubo un error al enviar tu mensaje. Por favor intenta de nuevo.",
-    "successTitle": "¡Mensaje enviado!",
-    "errorTitle": "Error al enviar"
+    "send": "Enviar mensaje",
+    "emailLabel": "Escríbenos a",
+    "phoneLabel": "Llámanos al",
+    "addressLabel": "Visítanos en",
+    "successMessage": "¡Gracias por escribirnos! Nuestro equipo te responderá a la brevedad posible.",
+    "errorMessage": "No pudimos enviar tu mensaje en este momento. Por favor inténtalo de nuevo en unos minutos.",
+    "successTitle": "¡Tu mensaje llegó!",
+    "errorTitle": "Algo salió mal"
   },
   "checkout": {
     "title": "Detalles de facturación",

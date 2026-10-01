@@ -60,29 +60,29 @@
   },
   "home": {
     "hero": {
-      "title": "Grow your business with us",
-      "subtitle": "We develop custom digital solutions to boost your success. Transform your online presence with our mobile applications and web design.",
-      "cta": "Get Started"
+      "title": "Drive your business growth alongside us",
+      "subtitle": "We craft tailor-made tech solutions to take your business further. Refresh your digital presence with mobile apps and websites built to stand out.",
+      "cta": "Start now"
     },
     "marquee": {
-      "items": ["Web Design", "UI/UX Design", "Applications"]
+      "items": ["Website Creation", "UI/UX Experience", "Mobile Apps"]
     },
     "solutions": {
-      "title": "Providing digital solutions",
-      "cta": "Contact Us"
+      "title": "We build technology that powers your brand",
+      "cta": "Let's talk"
     },
     "services": {
-      "title": "Our Services",
-      "viewPlans": "View plans",
-      "webDev": "Web Development",
-      "webDesign": "Web Design",
-      "webDesignDesc": "We create custom, professional websites that adapt to your needs and business goals.",
-      "mobileApps": "Mobile Applications",
-      "mobileAppsDesc": "We develop functional and easy-to-use mobile applications, optimized to provide the best experience for your users.",
-      "serviceNames": ["Web Design", "Mobile Applications"]
+      "title": "What we do for you",
+      "viewPlans": "Explore plans",
+      "webDev": "Web Engineering",
+      "webDesign": "Website Creation",
+      "webDesignDesc": "We design exclusive, professional websites aligned with your brand's goals and style.",
+      "mobileApps": "Mobile App Development",
+      "mobileAppsDesc": "We build practical, agile mobile applications designed to deliver the best experience to every user.",
+      "serviceNames": ["Website Creation", "Mobile App Development"]
     },
     "innovation": {
-      "text": "In a world where innovation is key, we are here to take your brand to the next level. Our team of marketing and technology development experts works tirelessly to create solutions that not only meet your current needs but also anticipate future trends."
+      "text": "We live in an age where adapting is essential, and our purpose is to take your brand further. A team passionate about technology and marketing works every day to build tools that respond to what you need today and prepare you for what's coming tomorrow."
     }
   },
   "plans": {
@@ -124,21 +124,21 @@
     "customProductName": "Custom"
   },
   "contact": {
-    "title": "Contact",
-    "subtitle": "Write to us",
+    "title": "Let's get in touch",
+    "subtitle": "Tell us about your project",
     "name": "Name",
     "lastName": "Last Name",
     "phone": "Phone",
     "email": "Email",
     "message": "Message",
-    "send": "Send",
-    "emailLabel": "Email",
-    "phoneLabel": "Phone",
-    "addressLabel": "Address",
-    "successMessage": "Your message has been sent. We will contact you soon.",
-    "errorMessage": "There was an error sending your message. Please try again.",
-    "successTitle": "Message sent!",
-    "errorTitle": "Error sending"
+    "send": "Send message",
+    "emailLabel": "Write to us at",
+    "phoneLabel": "Call us at",
+    "addressLabel": "Visit us at",
+    "successMessage": "Thanks for reaching out! Our team will reply to you as soon as possible.",
+    "errorMessage": "We couldn't send your message right now. Please try again in a few minutes.",
+    "successTitle": "Your message arrived!",
+    "errorTitle": "Something went wrong"
   },
   "checkout": {
     "title": "Billing details",
